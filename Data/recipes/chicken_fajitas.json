@@ -1,0 +1,63 @@
+{
+    "title": "Chicken Fajitas",
+    "description": "Chicken strips sautéed with peppers and onions, served in tortillas.",
+    "ingredients": [
+        {
+            "item": "Chicken breast",
+            "quantity": "400g"
+        },
+        {
+            "item": "Bell peppers",
+            "quantity": "2 medium"
+        },
+        {
+            "item": "Onion",
+            "quantity": "1 medium"
+        },
+        {
+            "item": "Tortillas",
+            "quantity": "8"
+        },
+        {
+            "item": "Garlic powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Paprika",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Cumin",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Lime",
+            "quantity": "1"
+        }
+    ],
+    "instructions": [
+        "Slice chicken, peppers, and onion.",
+        "Heat oil in skillet, cook chicken 5-7 minutes.",
+        "Add vegetables, cook 3-4 minutes.",
+        "Warm tortillas, serve chicken and vegetables with lime."
+    ],
+    "image": [
+        "path/to/chicken_fajitas.jpg"
+    ],
+    "duration": {
+        "prep": 10,
+        "cook": 20,
+        "total": 30
+    },
+    "difficulty": "easy",
+    "servings": 4,
+    "cooking_method": "pan",
+    "meal_type": "dinner",
+    "category": "High-Protein",
+    "country": "Mexico",
+    "tags": [
+        "no pork",
+        "mexican",
+        "protein"
+    ]
+}

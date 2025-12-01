@@ -1,0 +1,33 @@
+{
+  "title": "Masala Dosa",
+  "description": "A crispy South Indian rice crepe filled with a spiced potato mixture.",
+  "ingredients": [
+    {"item": "Dosa batter", "quantity": "2 cups"},
+    {"item": "Potatoes", "quantity": "3 boiled"},
+    {"item": "Onion", "quantity": "1 sliced"},
+    {"item": "Mustard seeds", "quantity": "1 tsp"},
+    {"item": "Turmeric", "quantity": "1/2 tsp"},
+    {"item": "Green chilies", "quantity": "2 chopped"},
+    {"item": "Curry leaves", "quantity": "6–8"},
+    {"item": "Oil", "quantity": "2 tbsp"},
+    {"item": "Salt", "quantity": "to taste"}
+  ],
+  "instructions": [
+    "Heat oil in a wide pan and add mustard seeds. When they begin to splutter, add curry leaves and green chilies.",
+    "Add sliced onions and sauté until translucent and soft.",
+    "Crumble the boiled potatoes and add them to the pan along with turmeric and salt.",
+    "Mix everything well and cook for 5 minutes until the flavors blend, then set the potato filling aside.",
+    "Heat a flat pan or tawa on medium heat. Pour a ladle of dosa batter and spread it thinly in a circular motion.",
+    "Drizzle a few drops of oil around the edges and cook until the dosa becomes golden and crisp.",
+    "Place a spoonful of potato filling in the center, fold the dosa, and serve hot."
+  ],
+  "image": "https://example.com/masala_dosa.jpg",
+  "duration": { "prep": 20, "cook": 25, "total": 45 },
+  "difficulty": "medium",
+  "servings": 3,
+  "cooking_method": "pan-frying",
+  "meal_type": "breakfast",
+  "category": "Traditional",
+  "country": "India",
+  "tags": ["dosa", "south-indian", "crispy"]
+}
