@@ -36,14 +36,15 @@
         }
     ],
     "instructions": [
-        "Preheat oven to 200°C (400°F).",
+        "Preheat oven to 200\u00b0C (400\u00b0F).",
         "Peel and dice vegetables, season with salt and pepper.",
         "Roll out pastry, place vegetables in center, fold and seal edges.",
         "Brush with oil and bake 30-35 minutes until golden.",
         "Serve warm."
     ],
     "image": [
-        "path/to/cornish_pasty.jpg"
+        "../Data/images/cornish_pasty.jpg",
+        "../Data/images/cornishpasty.jpg"
     ],
     "duration": {
         "prep": 15,

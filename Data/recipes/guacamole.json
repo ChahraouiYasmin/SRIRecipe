@@ -37,7 +37,8 @@
         "Mix well and serve immediately."
     ],
     "image": [
-        "path/to/guacamole.jpg"
+        "../Data/images/guacamole.jpeg",
+        "../Data/images/guacamole2.jpeg"
     ],
     "duration": {
         "prep": 10,

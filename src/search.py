@@ -10,14 +10,23 @@ with open("recipes.pkl", "rb") as f:
 # Charger modèle
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Requête
-query = "fast recipe"
-query_vec = model.encode([query], convert_to_numpy=True)
+print("Semantic Recipe Search (type 'exit' to quit)\n")
 
-# Recherche top 5
-k = 5
-distances, indices = index.search(query_vec, k)
+while True:
+    # Requête utilisateur
+    query = input("Enter your query: ")
+    if query.lower() == "exit":
+        print("Goodbye!")
+        break
 
-print("Top recipes:")
-for i in indices[0]:
-    print(recipes[i]['title'])
+    # Calculer vecteur
+    query_vec = model.encode([query], convert_to_numpy=True)
+
+    # Recherche top 5
+    k = 5
+    distances, indices = index.search(query_vec, k)
+
+    print("\nTop recipes:")
+    for i, idx in enumerate(indices[0]):
+        print(f"{i+1}. {recipes[idx]['title']}")
+    print("\n" + "-"*40 + "\n")

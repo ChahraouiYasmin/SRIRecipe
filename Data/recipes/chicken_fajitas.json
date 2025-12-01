@@ -1,6 +1,6 @@
 {
     "title": "Chicken Fajitas",
-    "description": "Chicken strips sautéed with peppers and onions, served in tortillas.",
+    "description": "Chicken strips saut\u00e9ed with peppers and onions, served in tortillas.",
     "ingredients": [
         {
             "item": "Chicken breast",
@@ -42,7 +42,8 @@
         "Warm tortillas, serve chicken and vegetables with lime."
     ],
     "image": [
-        "path/to/chicken_fajitas.jpg"
+        "../Data/images/fajitas.jpeg",
+        "../Data/images/fajitas2.jpeg"
     ],
     "duration": {
         "prep": 10,

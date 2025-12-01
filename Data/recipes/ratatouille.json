@@ -1,6 +1,6 @@
 {
     "title": "Ratatouille",
-    "description": "A Provençal vegetable stew made with zucchini, eggplant, peppers, and tomatoes.",
+    "description": "A Proven\u00e7al vegetable stew made with zucchini, eggplant, peppers, and tomatoes.",
     "ingredients": [
         {
             "item": "Zucchini",
@@ -44,14 +44,15 @@
         }
     ],
     "instructions": [
-        "Heat olive oil in a pan, sauté onions and garlic 3-4 minutes.",
+        "Heat olive oil in a pan, saut\u00e9 onions and garlic 3-4 minutes.",
         "Add eggplant, cook 5 minutes.",
         "Add bell peppers and zucchini, cook 5 minutes.",
         "Add tomatoes and herbs, simmer 20 minutes.",
         "Season with salt and pepper, serve hot."
     ],
     "image": [
-        "path/to/ratatouille.jpg"
+        "../Data/images/ratatouille.jpg",
+        "../Data/images/ratatouille2.jpg"
     ],
     "duration": {
         "prep": 15,

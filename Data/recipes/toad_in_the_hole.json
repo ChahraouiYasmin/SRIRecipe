@@ -32,7 +32,7 @@
         }
     ],
     "instructions": [
-        "Preheat oven to 200°C (400°F).",
+        "Preheat oven to 200\u00b0C (400\u00b0F).",
         "Place sausages in a greased baking dish, bake 10 minutes.",
         "Mix flour, eggs, milk, salt, and pepper to make batter.",
         "Pour batter over partially cooked sausages.",
@@ -40,7 +40,8 @@
         "Serve with onion gravy."
     ],
     "image": [
-        "path/to/toad_in_the_hole.jpg"
+        "../Data/images/Toad-In-The-Hole1.jpg",
+        "../Data/images/toad_in_the_hole2.jpg"
     ],
     "duration": {
         "prep": 10,

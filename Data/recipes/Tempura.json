@@ -1,30 +1,62 @@
 {
-  "title": "Tempura",
-  "description": "Light and crispy Japanese tempura made with shrimp and vegetables dipped in airy batter and deep-fried until golden.",
-  "ingredients": [
-    {"item": "Shrimp", "quantity": "10 pieces"},
-    {"item": "Carrot", "quantity": "1"},
-    {"item": "Zucchini", "quantity": "1"},
-    {"item": "Flour", "quantity": "1 cup"},
-    {"item": "Cold water", "quantity": "1 cup"},
-    {"item": "Egg", "quantity": "1"},
-    {"item": "Oil", "quantity": "for frying"}
-  ],
-  "instructions": [
-    "Peel and devein the shrimp, keeping the tails intact. Cut the vegetables into thin, uniform slices for even frying.",
-    "In a bowl, lightly beat the egg and mix in the cold water. Add the flour gently and stir briefly, leaving some lumps to ensure a light batter.",
-    "Heat oil in a deep pan to 170–180°C.",
-    "Dip the shrimp and vegetables individually into the batter, ensuring they are lightly coated.",
-    "Fry a few pieces at a time until they turn light golden and crispy, about 2–3 minutes per batch.",
-    "Place them on a paper towel to drain excess oil before serving."
-  ],
-  "image": "https://example.com/tempura.jpg",
-  "duration": { "prep": 15, "cook": 20, "total": 35 },
-  "difficulty": "medium",
-  "servings": 3,
-  "cooking_method": "deep-frying",
-  "meal_type": "appetizer",
-  "category": "Traditional",
-  "country": "Japan",
-  "tags": ["fried", "crispy", "shrimp"]
+    "title": "Tempura",
+    "description": "Light and crispy Japanese tempura made with shrimp and vegetables dipped in airy batter and deep-fried until golden.",
+    "ingredients": [
+        {
+            "item": "Shrimp",
+            "quantity": "10 pieces"
+        },
+        {
+            "item": "Carrot",
+            "quantity": "1"
+        },
+        {
+            "item": "Zucchini",
+            "quantity": "1"
+        },
+        {
+            "item": "Flour",
+            "quantity": "1 cup"
+        },
+        {
+            "item": "Cold water",
+            "quantity": "1 cup"
+        },
+        {
+            "item": "Egg",
+            "quantity": "1"
+        },
+        {
+            "item": "Oil",
+            "quantity": "for frying"
+        }
+    ],
+    "instructions": [
+        "Peel and devein the shrimp, keeping the tails intact. Cut the vegetables into thin, uniform slices for even frying.",
+        "In a bowl, lightly beat the egg and mix in the cold water. Add the flour gently and stir briefly, leaving some lumps to ensure a light batter.",
+        "Heat oil in a deep pan to 170\u2013180\u00b0C.",
+        "Dip the shrimp and vegetables individually into the batter, ensuring they are lightly coated.",
+        "Fry a few pieces at a time until they turn light golden and crispy, about 2\u20133 minutes per batch.",
+        "Place them on a paper towel to drain excess oil before serving."
+    ],
+    "image": [
+        "../Data/images/TempuraPic.png",
+        "../Data/images/TempuraPic2.png"
+    ],
+    "duration": {
+        "prep": 15,
+        "cook": 20,
+        "total": 35
+    },
+    "difficulty": "medium",
+    "servings": 3,
+    "cooking_method": "deep-frying",
+    "meal_type": "appetizer",
+    "category": "Traditional",
+    "country": "Japan",
+    "tags": [
+        "fried",
+        "crispy",
+        "shrimp"
+    ]
 }

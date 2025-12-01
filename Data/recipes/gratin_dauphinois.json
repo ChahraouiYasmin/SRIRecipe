@@ -32,13 +32,14 @@
         }
     ],
     "instructions": [
-        "Preheat oven to 180°C (350°F).",
+        "Preheat oven to 180\u00b0C (350\u00b0F).",
         "Layer potatoes in baking dish, pour cream and milk over.",
         "Cover, bake 40 minutes, uncover and bake 20 minutes.",
         "Let cool 5 minutes, serve."
     ],
     "image": [
-        "path/to/gratin_dauphinois.jpg"
+        "../Data/images/gratin.jpeg",
+        "../Data/images/gratin.jpeg"
     ],
     "duration": {
         "prep": 15,

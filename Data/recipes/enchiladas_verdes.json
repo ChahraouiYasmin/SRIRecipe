@@ -36,7 +36,7 @@
         }
     ],
     "instructions": [
-        "Preheat oven to 180°C (350°F).",
+        "Preheat oven to 180\u00b0C (350\u00b0F).",
         "Blend tomatillos, onion, garlic, and cilantro to make sauce.",
         "Warm tortillas, fill with chicken or cheese, roll, and place in a baking dish.",
         "Pour sauce over the rolled tortillas, sprinkle cheese and drizzle cream.",
@@ -44,7 +44,8 @@
         "Serve hot."
     ],
     "image": [
-        "path/to/enchiladas_verdes.jpg"
+        "../Data/images/enchilladas.jpeg",
+        "../Data/images/enchilladas2.jpeg"
     ],
     "duration": {
         "prep": 15,

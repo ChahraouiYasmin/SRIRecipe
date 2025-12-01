@@ -1,5 +1,5 @@
 {
-    "title": "Crêpes",
+    "title": "Cr\u00eapes",
     "description": "Thin French pancakes, perfect with sweet or savory fillings.",
     "ingredients": [
         {
@@ -30,7 +30,8 @@
         "Serve with desired fillings."
     ],
     "image": [
-        "path/to/crepes.jpg"
+        "../Data/images/crepes.jpg",
+        "../Data/images/crepes2.jpg"
     ],
     "duration": {
         "prep": 10,

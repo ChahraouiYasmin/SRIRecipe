@@ -26,7 +26,8 @@
         "Cut into wedges and serve."
     ],
     "image": [
-        "path/to/quesadillas.jpg"
+        "../Data/images/quesadillas.jpg",
+        "../Data/images/quesadillas2.jpeg"
     ],
     "duration": {
         "prep": 5,

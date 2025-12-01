@@ -31,7 +31,8 @@
         "Chill in refrigerator 1-2 hours before serving."
     ],
     "image": [
-        "path/to/trifle.jpg"
+        "../Data/images/englishtrifle.jpg",
+        "../Data/images/englishtrifle2.jpeg"
     ],
     "duration": {
         "prep": 20,

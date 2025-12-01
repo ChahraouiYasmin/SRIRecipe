@@ -1,30 +1,56 @@
 {
-  "title": "Miso Soup",
-  "description": "A traditional Japanese soup made with dashi broth, miso paste, tofu cubes, and wakame seaweed.",
-  "ingredients": [
-    {"item": "Dashi broth", "quantity": "4 cups"},
-    {"item": "Miso paste", "quantity": "3 tbsp"},
-    {"item": "Tofu (firm)", "quantity": "150g"},
-    {"item": "Wakame seaweed (dried)", "quantity": "2 tbsp"},
-    {"item": "Green onions", "quantity": "2 chopped"}
-  ],
-  "instructions": [
-    "Heat the dashi broth in a pot over medium heat until it becomes hot but not boiling. Avoid boiling to preserve the delicate flavors.",
-    "Soak the dried wakame seaweed in a small bowl of water for 5 minutes, then drain and set aside.",
-    "Cut the tofu into small, even cubes of about 1 cm for a traditional texture.",
-    "Place the wakame and tofu into the hot dashi broth and simmer gently for 2–3 minutes.",
-    "In a small separate bowl, add the miso paste. Ladle a small amount of the hot broth into the bowl and whisk until the miso dissolves completely.",
-    "Turn off the heat under the soup pot. Stir in the dissolved miso mixture gently to avoid lumps.",
-    "Add the chopped green onions right before serving for a fresh flavor.",
-    "Serve immediately while warm, as miso soup should not be reheated to boiling."
-  ],
-  "image": "https://example.com/miso_soup.jpg",
-  "duration": { "prep": 5, "cook": 10, "total": 15 },
-  "difficulty": "easy",
-  "servings": 2,
-  "cooking_method": "simmering",
-  "meal_type": "soup",
-  "category": "Traditional",
-  "country": "Japan",
-  "tags": ["soup", "healthy", "light"]
+    "title": "Miso Soup",
+    "description": "A traditional Japanese soup made with dashi broth, miso paste, tofu cubes, and wakame seaweed.",
+    "ingredients": [
+        {
+            "item": "Dashi broth",
+            "quantity": "4 cups"
+        },
+        {
+            "item": "Miso paste",
+            "quantity": "3 tbsp"
+        },
+        {
+            "item": "Tofu (firm)",
+            "quantity": "150g"
+        },
+        {
+            "item": "Wakame seaweed (dried)",
+            "quantity": "2 tbsp"
+        },
+        {
+            "item": "Green onions",
+            "quantity": "2 chopped"
+        }
+    ],
+    "instructions": [
+        "Heat the dashi broth in a pot over medium heat until it becomes hot but not boiling. Avoid boiling to preserve the delicate flavors.",
+        "Soak the dried wakame seaweed in a small bowl of water for 5 minutes, then drain and set aside.",
+        "Cut the tofu into small, even cubes of about 1 cm for a traditional texture.",
+        "Place the wakame and tofu into the hot dashi broth and simmer gently for 2\u20133 minutes.",
+        "In a small separate bowl, add the miso paste. Ladle a small amount of the hot broth into the bowl and whisk until the miso dissolves completely.",
+        "Turn off the heat under the soup pot. Stir in the dissolved miso mixture gently to avoid lumps.",
+        "Add the chopped green onions right before serving for a fresh flavor.",
+        "Serve immediately while warm, as miso soup should not be reheated to boiling."
+    ],
+    "image": [
+        "../Data/images/MisoSoup.png",
+        "../Data/images/MisoSoup2.png"
+    ],
+    "duration": {
+        "prep": 5,
+        "cook": 10,
+        "total": 15
+    },
+    "difficulty": "easy",
+    "servings": 2,
+    "cooking_method": "simmering",
+    "meal_type": "soup",
+    "category": "Traditional",
+    "country": "Japan",
+    "tags": [
+        "soup",
+        "healthy",
+        "light"
+    ]
 }

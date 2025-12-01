@@ -40,7 +40,7 @@
         }
     ],
     "instructions": [
-        "Preheat oven to 180°C (350°F).",
+        "Preheat oven to 180\u00b0C (350\u00b0F).",
         "Boil potatoes until soft, mash with milk and butter.",
         "Cook minced beef with chopped onions, carrots, peas until meat is browned.",
         "Season with salt and pepper.",
@@ -49,7 +49,8 @@
         "Serve hot."
     ],
     "image": [
-        "path/to/shepherds_pie.jpg"
+        "../Data/images/ShepherdsPie.jpeg",
+        "../Data/images/ShepherdsPie2.jpeg"
     ],
     "duration": {
         "prep": 20,

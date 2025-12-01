@@ -37,7 +37,7 @@
     ],
     "instructions": [
         "Peel potatoes and cut into chips.",
-        "Heat oil in deep fryer or large pan to 180°C (350°F).",
+        "Heat oil in deep fryer or large pan to 180\u00b0C (350\u00b0F).",
         "Mix flour, baking powder, salt, pepper, and water to make batter.",
         "Dip fish fillets into batter and carefully place in hot oil.",
         "Fry fish until golden and crispy, about 5-7 minutes.",
@@ -45,7 +45,8 @@
         "Serve fish with chips."
     ],
     "image": [
-        "path/to/fish_and_chips.jpg"
+        "../Data/images/fishandships1.jpeg",
+        "../Data/images/fishandships2.jpeg"
     ],
     "duration": {
         "prep": 15,
