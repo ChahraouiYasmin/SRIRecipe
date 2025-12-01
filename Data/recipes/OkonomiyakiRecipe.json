@@ -1,0 +1,31 @@
+{
+  "title": "Okonomiyaki",
+  "description": "A savory Japanese pancake filled with cabbage and topped with flavorful sauces.",
+  "ingredients": [
+    {"item": "Cabbage", "quantity": "2 cups shredded"},
+    {"item": "Flour", "quantity": "1 cup"},
+    {"item": "Eggs", "quantity": "2"},
+    {"item": "Water", "quantity": "3/4 cup"},
+    {"item": "Green onions", "quantity": "2 chopped"},
+    {"item": "Oil", "quantity": "2 tbsp"},
+    {"item": "Okonomiyaki sauce", "quantity": "as needed"},
+    {"item": "Mayonnaise", "quantity": "as needed"}
+  ],
+  "instructions": [
+    "Mix flour, water, and eggs in a bowl until the batter is smooth.",
+    "Fold in the shredded cabbage and chopped green onions until they are evenly coated in the mixture.",
+    "Heat oil in a large pan over medium heat. Pour in one portion of batter and shape it into a thick pancake.",
+    "Cook for 4–5 minutes until the bottom is golden and firm, then flip carefully using a spatula.",
+    "Cook the other side for another 4 minutes, pressing lightly to help it cook evenly.",
+    "Transfer to a plate and drizzle with okonomiyaki sauce and mayonnaise in zigzag patterns before serving."
+  ],
+  "image": "https://example.com/okonomiyaki.jpg",
+  "duration": { "prep": 15, "cook": 15, "total": 30 },
+  "difficulty": "easy",
+  "servings": 2,
+  "cooking_method": "pan-frying",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Japan",
+  "tags": ["pancake", "savory", "street-food"]
+}

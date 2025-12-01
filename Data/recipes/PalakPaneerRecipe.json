@@ -1,0 +1,33 @@
+{
+  "title": "Palak Paneer",
+  "description": "A creamy spinach curry cooked with soft paneer cubes and aromatic spices.",
+  "ingredients": [
+    {"item": "Paneer", "quantity": "250g cubed"},
+    {"item": "Spinach", "quantity": "300g"},
+    {"item": "Onion", "quantity": "1 chopped"},
+    {"item": "Ginger-garlic paste", "quantity": "1 tbsp"},
+    {"item": "Green chili", "quantity": "1"},
+    {"item": "Cumin seeds", "quantity": "1 tsp"},
+    {"item": "Cream", "quantity": "3 tbsp"},
+    {"item": "Oil", "quantity": "2 tbsp"},
+    {"item": "Salt", "quantity": "to taste"}
+  ],
+  "instructions": [
+    "Blanch the spinach by boiling it for 2 minutes, then immediately transferring it to ice water to keep the color vibrant.",
+    "Blend the spinach and green chili into a smooth puree and set aside.",
+    "Heat oil in a pan and add cumin seeds. Once they sizzle, add chopped onions.",
+    "Cook the onions until golden, then add ginger-garlic paste and sauté for 1 minute.",
+    "Pour in the spinach puree and cook for 5 minutes on medium heat to thicken the sauce.",
+    "Add paneer cubes and gently stir so they absorb the spinach flavors.",
+    "Finish by adding cream, salt, and simmering for another 3 minutes."
+  ],
+  "image": "https://example.com/palak_paneer.jpg",
+  "duration": { "prep": 15, "cook": 20, "total": 35 },
+  "difficulty": "easy",
+  "servings": 3,
+  "cooking_method": "stewing",
+  "meal_type": "lunch",
+  "category": "Vegetarian",
+  "country": "India",
+  "tags": ["spinach", "paneer", "creamy"]
+}

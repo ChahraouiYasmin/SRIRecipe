@@ -3,3 +3,6 @@ pandas
 numpy
 scikit-learn
 requests
+nltk
+sentence_transformers
+faiss-cpu

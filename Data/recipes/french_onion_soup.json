@@ -1,0 +1,64 @@
+{
+    "title": "French Onion Soup",
+    "description": "Slow-cooked caramelized onions in broth, topped with toasted bread and melted cheese.",
+    "ingredients": [
+        {
+            "item": "Onions",
+            "quantity": "6 medium"
+        },
+        {
+            "item": "Butter",
+            "quantity": "3 tbsp"
+        },
+        {
+            "item": "Vegetable broth",
+            "quantity": "1 liter"
+        },
+        {
+            "item": "Garlic",
+            "quantity": "2 cloves"
+        },
+        {
+            "item": "Bread slices",
+            "quantity": "4"
+        },
+        {
+            "item": "Cheese",
+            "quantity": "100g"
+        },
+        {
+            "item": "Salt",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Pepper",
+            "quantity": "1/2 tsp"
+        }
+    ],
+    "instructions": [
+        "Caramelize onions in butter 25-30 minutes.",
+        "Add garlic, cook 1 minute.",
+        "Add broth, simmer 15 minutes.",
+        "Top soup with bread and cheese, broil until cheese melts.",
+        "Serve immediately."
+    ],
+    "image": [
+        "path/to/french_onion_soup.jpg"
+    ],
+    "duration": {
+        "prep": 10,
+        "cook": 40,
+        "total": 50
+    },
+    "difficulty": "medium",
+    "servings": 4,
+    "cooking_method": "simmering",
+    "meal_type": "soup",
+    "category": "Traditional",
+    "country": "France",
+    "tags": [
+        "no wine",
+        "no pork",
+        "french"
+    ]
+}
