@@ -1,0 +1,38 @@
+{
+    "title": "Chicken Shawarma",
+    "description": "Popular Syrian street food made of marinated grilled chicken served in a wrap with garlic sauce and vegetables.",
+    "ingredients": [
+      {"item": "Chicken breast or thighs, sliced", "quantity": "500g"},
+      {"item": "Plain yogurt", "quantity": "2 tbsp"},
+      {"item": "Garlic, minced", "quantity": "3 cloves"},
+      {"item": "Shawarma spice mix", "quantity": "1 tbsp"},
+      {"item": "Lemon juice", "quantity": "1 tbsp"},
+      {"item": "Olive oil", "quantity": "1 tbsp"},
+      {"item": "Flatbread or wrap", "quantity": "4"},
+      {"item": "Vegetables (tomato, lettuce, onions)", "quantity": "To taste"}
+    ],
+    "instructions": [
+      "Combine chicken with yogurt, garlic, spices, lemon juice, and olive oil.",
+      "Marinate for at least 1 hour (or overnight for best flavor).",
+      "Cook chicken in a pan or oven until browned.",
+      "Slice the cooked chicken thinly.",
+      "Assemble wraps with garlic sauce and vegetables."
+    ],
+    "images": [
+      "https://tse4.mm.bing.net/th/id/OIP.tdAIR7O9ESsCQD7GjfoRGwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://www.chefspencil.com/wp-content/uploads/shawarma-2.2.jpg"
+    ],
+    "duration": {
+      "prep": 20,
+      "cook": 20,
+      "total": 40
+    },
+    "difficulty": "easy",
+    "servings": 4,
+    "cooking_method": "grilling",
+    "meal_type": "lunch",
+    "dish_type": "main dish",
+    "category": "Street food",
+    "country": "Syria",
+    "tags": ["shawarma", "street food", "wrap"]
+  }

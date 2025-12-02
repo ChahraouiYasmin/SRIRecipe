@@ -1,0 +1,35 @@
+{
+    "title": "Hotteok",
+    "description": "A sweet Korean street pancake filled with melted brown sugar, cinnamon, and nuts.",
+    "ingredients": [
+      { "item": "All-purpose flour", "quantity": "300g" },
+      { "item": "Warm water", "quantity": "150 ml" },
+      { "item": "Milk", "quantity": "50 ml" },
+      { "item": "Sugar", "quantity": "1 tbsp" },
+      { "item": "Dry yeast", "quantity": "1 tsp" },
+      { "item": "Salt", "quantity": "1/2 tsp" },
+      { "item": "Brown sugar", "quantity": "4 tbsp" },
+      { "item": "Cinnamon", "quantity": "1/2 tsp" },
+      { "item": "Crushed nuts", "quantity": "30g" }
+    ],
+    "instructions": [
+      "Combine flour, warm water, milk, sugar, yeast, and salt to make dough.",
+      "Let the dough rise for 1 hour until doubled in size.",
+      "Mix brown sugar, cinnamon, and nuts to create the filling.",
+      "Divide dough into balls, fill each with the sugar mixture, and pinch to seal.",
+      "Flatten and cook on a lightly oiled pan over medium heat until golden on both sides."
+    ],
+    "images": [
+      "https://tse1.mm.bing.net/th/id/OIP.jDsDFSlgNYjWZA_jrYaEMQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://zhangcatherine.com/wp-content/uploads/2022/10/PA170078.jpg"
+    ],
+    "duration": { "prep": 20, "cook": 10, "total": 90 },
+    "difficulty": "medium",
+    "servings": 6,
+    "cooking_method": "pan-cook",
+    "meal_type": "dessert",
+    "dish_type": "dessert",
+    "category": "Traditional",
+    "country": "South Korea",
+    "tags": ["hotteok", "dessert", "street food"]
+  }

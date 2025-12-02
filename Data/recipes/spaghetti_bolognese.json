@@ -1,0 +1,48 @@
+{
+  "title": "Spaghetti alla Bolognese",
+  "description": "The authentic meat sauce from Bologna - a rich, slow-cooked ragù with multiple meats, vegetables, and milk, served with tagliatelle (not spaghetti in Bologna, but adapted here).",
+  "ingredients": [
+    {"item": "Spaghetti", "quantity": "400g"},
+    {"item": "Ground beef chuck", "quantity": "300g"},
+    {"item": "Ground pork", "quantity": "150g"},
+    {"item": "Pancetta, finely diced", "quantity": "100g"},
+    {"item": "Yellow onion, finely chopped", "quantity": "1"},
+    {"item": "Carrot, finely chopped", "quantity": "1"},
+    {"item": "Celery stalk, finely chopped", "quantity": "1"},
+    {"item": "Tomato paste", "quantity": "2 tbsp"},
+    {"item": "Red wine", "quantity": "1 cup"},
+    {"item": "Whole milk", "quantity": "1 cup"},
+    {"item": "Beef broth", "quantity": "2 cups"},
+    {"item": "Bay leaves", "quantity": "2"},
+    {"item": "Nutmeg, freshly grated", "quantity": "1/4 tsp"},
+    {"item": "Extra virgin olive oil", "quantity": "3 tbsp"},
+    {"item": "Salt", "quantity": "2 tsp"},
+    {"item": "Black pepper", "quantity": "1 tsp"},
+    {"item": "Parmigiano-Reggiano, grated", "quantity": "100g"}
+  ],
+  "instructions": [
+    "Heat olive oil in large heavy pot. Add pancetta and cook until fat renders.",
+    "Add finely chopped onion, carrot, and celery (soffritto). Cook over low heat for 15 minutes until soft but not browned.",
+    "Increase heat, add ground meats, breaking up with spoon. Cook until browned, about 10 minutes.",
+    "Add tomato paste and cook for 2 minutes until darkened. Add red wine, scraping bottom of pot.",
+    "Simmer until wine evaporates, about 5 minutes. Add milk and nutmeg, simmer until milk is absorbed.",
+    "Add bay leaves and enough beef broth to barely cover meat. Bring to simmer, then reduce heat to lowest setting.",
+    "Partially cover and simmer for 3-4 hours, stirring occasionally and adding broth if too dry. Sauce should be thick but moist.",
+    "Cook spaghetti in salted boiling water until al dente. Reserve 1 cup pasta water.",
+    "Add drained spaghetti to sauce with some pasta water. Toss vigorously over heat until emulsified.",
+    "Serve immediately with generous amount of Parmigiano-Reggiano grated over top."
+  ],
+  "image": "https://example.com/spaghetti-bolognese.jpg",
+  "duration": {
+    "prep": 45,
+    "cook": 240,
+    "total": 285
+  },
+  "difficulty": "medium",
+  "servings": 4,
+  "cooking_method": "simmering",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Italy",
+  "tags": ["pasta", "meat sauce", "slow-cooked", "ragù", "comfort"]
+}

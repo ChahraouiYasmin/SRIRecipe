@@ -1,0 +1,35 @@
+{
+    "title": "Mhalabia",
+    "description": "A light Syrian milk pudding flavored with orange blossom water and topped with crushed pistachios.",
+    "ingredients": [
+      {"item": "Milk", "quantity": "1 liter"},
+      {"item": "Cornstarch", "quantity": "3 tbsp"},
+      {"item": "Sugar", "quantity": "3 tbsp"},
+      {"item": "Orange blossom water", "quantity": "1 tsp"},
+      {"item": "Crushed pistachios", "quantity": "20g"}
+    ],
+    "instructions": [
+      "Heat milk in a saucepan over medium heat.",
+      "Dissolve cornstarch in a small amount of cold milk and add it to the pot.",
+      "Add sugar and stir continuously until thickened.",
+      "Remove from heat and add orange blossom water.",
+      "Pour into cups and garnish with pistachios."
+    ],
+    "images": [
+      "https://tse2.mm.bing.net/th/id/OIP.du11LbxL2syciajNX0fqCQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://th.bing.com/th/id/R.f2775bb5967cadf3a67cb44dd8e84844?rik=1SWw5ZyqxdOOcw&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0601%2f5795%2f2236%2farticles%2f2022.02_-_Mhalabia_1024x1024.jpg%3fv%3d1643810154&ehk=ycd%2fSSk%2fy8EAKa4rPG%2fW8C5anuz8W2F2ZjAlSODUb8Q%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "duration": {
+      "prep": 10,
+      "cook": 10,
+      "total": 20
+    },
+    "difficulty": "easy",
+    "servings": 4,
+    "cooking_method": "stovetop",
+    "meal_type": "dessert",
+    "dish_type": "dessert",
+    "category": "Traditional",
+    "country": "Syria",
+    "tags": ["mhalabia", "milk pudding"]
+  }

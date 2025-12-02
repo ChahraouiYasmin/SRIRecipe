@@ -1,0 +1,52 @@
+{
+  "title": "Sernik (Polish Baked Cheesecake)",
+  "description": "A rich, dense baked cheesecake made with farmer's cheese, featuring a delicate crumb and traditional flavor - the centerpiece of Polish holiday tables.",
+  "ingredients": [
+    {"item": "Farmer's cheese (twaróg), dry", "quantity": "1kg"},
+    {"item": "Butter, softened", "quantity": "250g"},
+    {"item": "Granulated sugar", "quantity": "300g"},
+    {"item": "Eggs, separated", "quantity": "6"},
+    {"item": "Potato starch", "quantity": "100g"},
+    {"item": "All-purpose flour", "quantity": "50g"},
+    {"item": "Vanilla sugar", "quantity": "2 packets (16g)"},
+    {"item": "Lemon zest", "quantity": "from 2 lemons"},
+    {"item": "Lemon juice", "quantity": "2 tbsp"},
+    {"item": "Vanilla extract", "quantity": "2 tsp"},
+    {"item": "Salt", "quantity": "1/4 tsp"},
+    {"item": "For crust: Butter cookies, crushed", "quantity": "200g"},
+    {"item": "For crust: Butter, melted", "quantity": "100g"},
+    {"item": "For crust: Sugar", "quantity": "2 tbsp"},
+    {"item": "For topping: Powdered sugar", "quantity": "3 tbsp"},
+    {"item": "For topping: Lemon glaze (optional)", "quantity": "1/2 cup"},
+    {"item": "For topping: Fresh berries (optional)", "quantity": "200g"}
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (320°F). Grease 9-inch springform pan and line with parchment.",
+    "For crust: Mix crushed cookies, melted butter, and sugar. Press firmly into bottom of pan. Chill.",
+    "Press farmer's cheese through fine sieve or food mill twice for ultra-smooth texture.",
+    "In large bowl, beat softened butter with sugar and vanilla sugar until light and fluffy, about 5 minutes.",
+    "Add egg yolks one at a time, beating well after each. Mix in lemon zest, lemon juice, and vanilla.",
+    "Add sieved cheese in three additions, mixing until smooth after each.",
+    "Sift in potato starch and flour, mix until just combined.",
+    "In clean bowl with clean beaters, whip egg whites with salt until stiff peaks form.",
+    "Gently fold egg whites into cheese mixture in three additions, being careful not to deflate.",
+    "Pour batter over crust and smooth top. Tap pan gently to remove air bubbles.",
+    "Bake for 70-90 minutes until golden and set but still slightly wobbly in center.",
+    "Turn off oven, open door slightly, and let cheesecake cool completely in oven (about 2 hours).",
+    "Refrigerate overnight (minimum 8 hours) before serving.",
+    "Dust with powdered sugar or add lemon glaze and berries before serving."
+  ],
+  "image": "https://example.com/sernik.jpg",
+  "duration": {
+    "prep": 45,
+    "cook": 80,
+    "total": 1025
+  },
+  "difficulty": "medium",
+  "servings": 12,
+  "cooking_method": "baking",
+  "meal_type": "dessert",
+  "category": "Traditional",
+  "country": "Poland",
+  "tags": ["cheesecake", "baked", "holiday", "dessert", "traditional"]
+}

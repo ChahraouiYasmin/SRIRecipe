@@ -1,0 +1,39 @@
+{
+    "title": "Kibbeh",
+    "description": "A traditional Syrian dish made with a mixture of fine bulgur, minced meat, and spices, shaped into ovals and stuffed before frying.",
+    "ingredients": [
+      {"item": "Fine bulgur", "quantity": "200g"},
+      {"item": "Lean minced beef or lamb", "quantity": "300g"},
+      {"item": "Onion, finely chopped", "quantity": "1"},
+      {"item": "Ground cumin", "quantity": "1 tsp"},
+      {"item": "Ground cinnamon", "quantity": "1/2 tsp"},
+      {"item": "Black pepper", "quantity": "1/2 tsp"},
+      {"item": "Salt", "quantity": "1 tsp"},
+      {"item": "Vegetable oil", "quantity": "For frying"},
+      {"item": "Pine nuts (optional, for stuffing)", "quantity": "2 tbsp"}
+    ],
+    "instructions": [
+      "Soak fine bulgur in warm water for 20 minutes, then drain well.",
+      "Mix the bulgur with half of the minced meat, onion, salt, pepper, cumin, and cinnamon. Blend or knead until a smooth dough forms.",
+      "Prepare stuffing: sauté the remaining minced meat with onions, spices, and optional pine nuts.",
+      "Shape kibbeh into oval shells and fill them with the cooked meat mixture.",
+      "Fry in hot oil until golden brown and crispy."
+    ],
+    "images": [
+      "https://th.bing.com/th/id/R.43b287b723aa20dc11e75e1fd16b49b4?rik=ZOn41tN51WzPDQ&riu=http%3a%2f%2fwww.middleeasteye.net%2fsites%2fdefault%2ffiles%2fimages-story%2fkibbeh_mainbr.jpg&ehk=JkjgfV7BAQRqcUt9oFreva%2bgyKRhFc51Qym7f5ImtBw%3d&risl=&pid=ImgRaw&r=0",
+      "https://th.bing.com/th/id/R.892e1015064f38d26b897301830c9249?rik=er1xNlr7%2fP41Yw&riu=http%3a%2f%2fwww.onearabvegan.com%2fwp-content%2fuploads%2f2017%2f06%2fvegan-pumpkin-kibbeh-10.jpg&ehk=qD2YAnqDfjNdqr5Hn4qfwuRLTWMgFXtU5n7yhtcG4PA%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "duration": {
+      "prep": 35,
+      "cook": 20,
+      "total": 55
+    },
+    "difficulty": "medium",
+    "servings": 4,
+    "cooking_method": "frying",
+    "meal_type": "dinner",
+    "dish_type": "main dish",
+    "category": "Traditional",
+    "country": "Syria",
+    "tags": ["kibbeh", "middle eastern", "fried"]
+  }
