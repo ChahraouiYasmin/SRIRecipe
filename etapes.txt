@@ -1,0 +1,7 @@
+Étape 1 ✅: Configuration de base Flask + Chargement des données JSON
+Étape 2 ✅: Traitement NLP (nettoyage, tokenization, lemmatisation)
+Étape 3 ✅: Construction des Index Inversés (mots, ingrédients, métadonnées)
+Étape 4 ✅: Génération des Embeddings avec modèle pré-entraîné
+Étape 5 ✅: FAISS Index + Recherche Sémantique Hybride
+Étape 7 : Frontend React
+Étape 8 : Tests et Optimisation
