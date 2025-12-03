@@ -1,0 +1,35 @@
+{
+    "title": "Kunafa",
+    "description": "A classic Syrian dessert made with shredded kataifi dough, sweet cheese, melted butter, and fragrant simple syrup.",
+    "ingredients": [
+      {"item": "Kataifi (shredded phyllo dough)", "quantity": "300g"},
+      {"item": "Unsalted cheese (akkawi or mozzarella)", "quantity": "250g"},
+      {"item": "Melted butter", "quantity": "100g"},
+      {"item": "Sugar syrup", "quantity": "200ml"},
+      {"item": "Ground pistachios", "quantity": "30g"}
+    ],
+    "instructions": [
+      "Mix the shredded kataifi dough with melted butter.",
+      "Spread half the dough in a baking pan.",
+      "Add the cheese evenly, then cover with the remaining dough.",
+      "Bake at 180°C until golden brown.",
+      "Pour warm sugar syrup over it and garnish with pistachios."
+    ],
+    "images": [
+        "../data/images/kunafa.jpg",
+        "../data/images/kunafa2.jpg"
+    ],
+    "duration": {
+      "prep": 15,
+      "cook": 25,
+      "total": 40
+    },
+    "difficulty": "medium",
+    "servings": 6,
+    "cooking_method": "baking",
+    "meal_type": "dessert",
+    "dish_type": "dessert",
+    "category": "Traditional",
+    "country": "Syria",
+    "tags": ["kunafa", "dessert", "sweet"]
+  }

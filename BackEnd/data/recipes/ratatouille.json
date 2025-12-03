@@ -1,0 +1,73 @@
+{
+    "title": "Ratatouille",
+    "description": "A Proven\u00e7al vegetable stew made with zucchini, eggplant, peppers, and tomatoes.",
+    "ingredients": [
+        {
+            "item": "Zucchini",
+            "quantity": "2 medium"
+        },
+        {
+            "item": "Eggplant",
+            "quantity": "1 medium"
+        },
+        {
+            "item": "Bell peppers",
+            "quantity": "2 medium"
+        },
+        {
+            "item": "Tomatoes",
+            "quantity": "4 medium"
+        },
+        {
+            "item": "Onion",
+            "quantity": "1 medium"
+        },
+        {
+            "item": "Garlic",
+            "quantity": "3 cloves"
+        },
+        {
+            "item": "Olive oil",
+            "quantity": "3 tbsp"
+        },
+        {
+            "item": "Herbs (thyme, rosemary)",
+            "quantity": "2 tsp each"
+        },
+        {
+            "item": "Salt",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Pepper",
+            "quantity": "1/2 tsp"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a pan, saut\u00e9 onions and garlic 3-4 minutes.",
+        "Add eggplant, cook 5 minutes.",
+        "Add bell peppers and zucchini, cook 5 minutes.",
+        "Add tomatoes and herbs, simmer 20 minutes.",
+        "Season with salt and pepper, serve hot."
+    ],
+    "image": [
+        "../data/images/ratatouille.jpg",
+        "../data/images/ratatouille2.jpg"
+    ],
+    "duration": {
+        "prep": 15,
+        "cook": 30,
+        "total": 45
+    },
+    "difficulty": "medium",
+    "servings": 4,
+    "cooking_method": "simmering",
+    "meal_type": "dinner",
+    "category": "Vegan",
+    "country": "France",
+    "tags": [
+        "vegan",
+        "no pork",
+        "healthy"
+    ]
+}

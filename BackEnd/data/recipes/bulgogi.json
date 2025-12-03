@@ -1,0 +1,34 @@
+{
+    "title": "Bulgogi",
+    "description": "Korean BBQ beef marinated in a sweet and savory sauce, then stir-fried or grilled to caramelized perfection.",
+    "ingredients": [
+      { "item": "Thinly sliced beef ribeye", "quantity": "500g" },
+      { "item": "Soy sauce", "quantity": "4 tbsp" },
+      { "item": "Pear or apple puree", "quantity": "2 tbsp" },
+      { "item": "Sugar or honey", "quantity": "1 tbsp" },
+      { "item": "Garlic, minced", "quantity": "3 cloves" },
+      { "item": "Sesame oil", "quantity": "1 tbsp" },
+      { "item": "Onion, sliced", "quantity": "1 medium" },
+      { "item": "Black pepper", "quantity": "1/4 tsp" },
+      { "item": "Sesame seeds", "quantity": "1 tbsp" }
+    ],
+    "instructions": [
+      "Mix soy sauce, pear puree, sugar, garlic, sesame oil, black pepper, and sliced onions to make the marinade.",
+      "Marinate thinly sliced beef for at least 30 minutes (preferably 2 hours).",
+      "Stir-fry beef in a hot pan until browned and caramelized.",
+      "Serve with rice, lettuce wraps, or vegetables."
+    ],
+    "images":[
+        "../data/images/bulgogi.jpg",
+        "../data/images/bulgogi2.jpg"
+    ],
+    "duration": { "prep": 20, "cook": 10, "total": 30 },
+    "difficulty": "easy",
+    "servings": 4,
+    "cooking_method": "pan-fry",
+    "meal_type": "dinner",
+    "dish_type": "main dish",
+    "category": "Traditional",
+    "country": "South Korea",
+    "tags": ["bulgogi", "bbq", "beef"]
+  }

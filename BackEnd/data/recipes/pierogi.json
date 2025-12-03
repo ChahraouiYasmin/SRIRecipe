@@ -1,0 +1,50 @@
+{
+  "title": "Pierogi Ruskie (Polish Dumplings)",
+  "description": "Classic Polish dumplings with a savory filling of potatoes, farmer's cheese, and onions, boiled to perfection and served with fried onions and sour cream.",
+  "ingredients": [
+    {"item": "All-purpose flour", "quantity": "500g"},
+    {"item": "Warm water", "quantity": "250ml"},
+    {"item": "Egg", "quantity": "1"},
+    {"item": "Salt", "quantity": "1 tsp"},
+    {"item": "Vegetable oil", "quantity": "2 tbsp"},
+    {"item": "For filling: Potatoes", "quantity": "1kg"},
+    {"item": "For filling: Farmer's cheese (twaróg)", "quantity": "400g"},
+    {"item": "For filling: Onions, finely chopped", "quantity": "2 large"},
+    {"item": "For filling: Butter", "quantity": "100g"},
+    {"item": "For filling: Salt", "quantity": "2 tsp"},
+    {"item": "For filling: Black pepper", "quantity": "1 tsp"},
+    {"item": "For serving: Butter", "quantity": "50g"},
+    {"item": "For serving: Sour cream", "quantity": "200ml"},
+    {"item": "For serving: Fresh chives, chopped", "quantity": "3 tbsp"},
+    {"item": "For serving: Bacon, diced (optional)", "quantity": "150g"}
+  ],
+  "instructions": [
+    "For dough: In a large bowl, mix flour and salt. Make a well and add egg, oil, and warm water. Mix until shaggy dough forms.",
+    "Knead on floured surface for 8-10 minutes until smooth and elastic. Cover with bowl and rest for 30 minutes.",
+    "For filling: Peel and boil potatoes in salted water until tender. Drain well and mash until smooth.",
+    "In a skillet, melt 50g butter and sauté chopped onions until golden and caramelized, about 15 minutes.",
+    "Mix mashed potatoes, farmer's cheese, caramelized onions (reserve some for garnish), remaining 50g butter, salt, and pepper. Mix until well combined. Let cool.",
+    "Divide dough into 4 portions. Roll one portion thin (about 2mm) on floured surface. Keep other portions covered.",
+    "Cut circles using a glass or 3-inch cutter. Place tablespoon of filling in center of each circle.",
+    "Fold dough over filling to create half-moon shape. Press edges firmly to seal, then crimp with fingers or fork.",
+    "Bring large pot of salted water to boil. Boil pierogi in batches (don't overcrowd) until they float, then cook 2-3 minutes more.",
+    "Remove with slotted spoon. Serve immediately with melted butter, caramelized onions, sour cream, chives, and crispy bacon if using.",
+    "Alternatively, after boiling, pan-fry in butter until golden and crispy on both sides."
+  ],
+  "image": [
+        "../data/images/pierogi.jpg",
+        "../data/images/pierogi2.jpg"
+    ],
+  "duration": {
+    "prep": 90,
+    "cook": 30,
+    "total": 120
+  },
+  "difficulty": "medium",
+  "servings": 6,
+  "cooking_method": "boiling",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Poland",
+  "tags": ["dumplings", "potato", "cheese", "comfort food", "holiday"]
+}

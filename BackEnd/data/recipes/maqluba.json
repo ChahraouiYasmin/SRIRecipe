@@ -1,0 +1,39 @@
+{
+    "title": "Maqluba",
+    "description": "A famous Levantine dish of layered rice, meat, and vegetables, cooked together and flipped upside down before serving.",
+    "ingredients": [
+      {"item": "Rice", "quantity": "400g"},
+      {"item": "Chicken pieces or lamb", "quantity": "500g"},
+      {"item": "Eggplants", "quantity": "2"},
+      {"item": "Potatoes", "quantity": "2"},
+      {"item": "Ground turmeric", "quantity": "1 tsp"},
+      {"item": "Seven-spice or Maqluba spice mix", "quantity": "1 tbsp"},
+      {"item": "Salt", "quantity": "1 tsp"},
+      {"item": "Vegetable oil", "quantity": "For frying vegetables"}
+    ],
+    "instructions": [
+      "Slice and fry eggplants and potatoes until lightly golden.",
+      "Boil the chicken with spices and salt until cooked.",
+      "In a large pot, layer cooked chicken, fried vegetables, then rice.",
+      "Add broth until it covers the rice.",
+      "Cook on low heat for 40 minutes.",
+      "Let rest 10 minutes, then flip the pot onto a tray and serve."
+    ],
+    "images": [
+        "../data/images/maqluba.jpg",
+        "../data/images/maqluba2.jpg"
+    ],
+    "duration": {
+      "prep": 30,
+      "cook": 45,
+      "total": 75
+    },
+    "difficulty": "medium",
+    "servings": 5,
+    "cooking_method": "stewing",
+    "meal_type": "dinner",
+    "dish_type": "main dish",
+    "category": "National dish",
+    "country": "Syria",
+    "tags": ["maqluba", "rice", "traditional"]
+  }

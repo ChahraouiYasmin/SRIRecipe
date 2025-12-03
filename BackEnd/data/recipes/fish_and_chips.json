@@ -1,0 +1,67 @@
+{
+    "title": "Fish and Chips",
+    "description": "Classic English deep-fried battered fish served with crispy chips.",
+    "ingredients": [
+        {
+            "item": "White fish fillets (cod or haddock)",
+            "quantity": "400g"
+        },
+        {
+            "item": "Potatoes",
+            "quantity": "600g"
+        },
+        {
+            "item": "Flour",
+            "quantity": "100g"
+        },
+        {
+            "item": "Baking powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Water",
+            "quantity": "150ml"
+        },
+        {
+            "item": "Salt",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Pepper",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "item": "Oil for frying",
+            "quantity": "500ml"
+        }
+    ],
+    "instructions": [
+        "Peel potatoes and cut into chips.",
+        "Heat oil in deep fryer or large pan to 180\u00b0C (350\u00b0F).",
+        "Mix flour, baking powder, salt, pepper, and water to make batter.",
+        "Dip fish fillets into batter and carefully place in hot oil.",
+        "Fry fish until golden and crispy, about 5-7 minutes.",
+        "Fry chips until golden, drain excess oil.",
+        "Serve fish with chips."
+    ],
+    "image": [
+        "../data/images/fishandships1.jpeg",
+        "../data/images/fishandships2.jpeg"
+    ],
+    "duration": {
+        "prep": 15,
+        "cook": 20,
+        "total": 35
+    },
+    "difficulty": "medium",
+    "servings": 2,
+    "cooking_method": "frying",
+    "meal_type": "dinner",
+    "category": "Traditional",
+    "country": "England",
+    "tags": [
+        "english",
+        "fish",
+        "fast food"
+    ]
+}

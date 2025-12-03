@@ -1,0 +1,65 @@
+{
+    "title": "Cornish Pasty (Vegetarian)",
+    "description": "Traditional pastry filled with vegetables, baked until golden.",
+    "ingredients": [
+        {
+            "item": "Shortcrust pastry",
+            "quantity": "400g"
+        },
+        {
+            "item": "Potatoes",
+            "quantity": "200g"
+        },
+        {
+            "item": "Carrots",
+            "quantity": "100g"
+        },
+        {
+            "item": "Swede (rutabaga)",
+            "quantity": "100g"
+        },
+        {
+            "item": "Onion",
+            "quantity": "1 medium"
+        },
+        {
+            "item": "Salt",
+            "quantity": "1 tsp"
+        },
+        {
+            "item": "Pepper",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "item": "Oil",
+            "quantity": "1 tbsp"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 200\u00b0C (400\u00b0F).",
+        "Peel and dice vegetables, season with salt and pepper.",
+        "Roll out pastry, place vegetables in center, fold and seal edges.",
+        "Brush with oil and bake 30-35 minutes until golden.",
+        "Serve warm."
+    ],
+    "image": [
+        "../data/images/cornish_pasty.jpg",
+        "../data/images/cornishpasty.jpg"
+    ],
+    "duration": {
+        "prep": 15,
+        "cook": 35,
+        "total": 50
+    },
+    "difficulty": "medium",
+    "servings": 4,
+    "cooking_method": "baking",
+    "meal_type": "lunch",
+    "category": "Traditional",
+    "country": "England",
+    "tags": [
+        "english",
+        "pastry",
+        "vegetarian"
+    ]
+}

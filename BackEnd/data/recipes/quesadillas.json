@@ -1,0 +1,48 @@
+{
+    "title": "Quesadillas",
+    "description": "Cheese-filled tortillas cooked until crispy and melted.",
+    "ingredients": [
+        {
+            "item": "Tortillas",
+            "quantity": "4"
+        },
+        {
+            "item": "Cheese",
+            "quantity": "150g"
+        },
+        {
+            "item": "Mushrooms",
+            "quantity": "50g"
+        },
+        {
+            "item": "Bell peppers",
+            "quantity": "50g"
+        }
+    ],
+    "instructions": [
+        "Heat skillet over medium heat.",
+        "Place one tortilla, add cheese and optional fillings.",
+        "Cover or fold, cook 2-3 minutes per side.",
+        "Cut into wedges and serve."
+    ],
+    "image": [
+        "../data/images/quesadillas.jpg",
+        "../data/images/quesadillas2.jpeg"
+    ],
+    "duration": {
+        "prep": 5,
+        "cook": 10,
+        "total": 15
+    },
+    "difficulty": "easy",
+    "servings": 2,
+    "cooking_method": "pan",
+    "meal_type": "snack",
+    "category": "Vegetarian",
+    "country": "Mexico",
+    "tags": [
+        "vegetarian",
+        "mexican",
+        "fast"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Bibimbap",
+    "description": "Traditional Korean mixed rice bowl topped with sautéed vegetables, marinated beef, a fried egg, and spicy gochujang sauce.",
+    "ingredients": [
+      { "item": "Short-grain rice", "quantity": "400g" },
+      { "item": "Beef ribeye, thinly sliced", "quantity": "250g" },
+      { "item": "Carrot", "quantity": "1, julienned" },
+      { "item": "Zucchini", "quantity": "1, sliced" },
+      { "item": "Shiitake mushrooms", "quantity": "120g, sliced" },
+      { "item": "Spinach", "quantity": "150g" },
+      { "item": "Soybean sprouts", "quantity": "150g" },
+      { "item": "Eggs", "quantity": "4" },
+      { "item": "Soy sauce", "quantity": "2 tbsp" },
+      { "item": "Sesame oil", "quantity": "2 tbsp" },
+      { "item": "Gochujang", "quantity": "3 tbsp" },
+      { "item": "Garlic, minced", "quantity": "2 cloves" },
+      { "item": "Sesame seeds", "quantity": "1 tbsp" }
+    ],
+    "instructions": [
+      "Cook the short-grain rice and set aside.",
+      "Blanch spinach, drain, and season with salt, sesame oil, and garlic.",
+      "Sauté carrots, zucchini, mushrooms, and soybean sprouts separately, seasoning lightly with salt.",
+      "Mix beef with soy sauce, sesame oil, garlic, and a pinch of sugar, then stir-fry until browned.",
+      "Fry an egg sunny-side-up.",
+      "Assemble rice in bowls and arrange vegetables and beef on top.",
+      "Add the fried egg and serve with gochujang and sesame seeds."
+    ],
+    "images":[
+        "../data/images/bibimbap.jpg",
+        "../data/images/bibimbap2.jpg"
+    ],
+    "duration": { "prep": 20, "cook": 25, "total": 45 },
+    "difficulty": "medium",
+    "servings": 4,
+    "cooking_method": "mix & assemble",
+    "meal_type": "lunch",
+    "dish_type": "main dish",
+    "category": "Traditional",
+    "country": "South Korea",
+    "tags": ["bibimbap", "rice", "korean"]
+  }

@@ -1,0 +1,56 @@
+{
+  "title": "Gołąbki (Polish Stuffed Cabbage Rolls)",
+  "description": "Tender cabbage leaves stuffed with a savory mixture of meat and rice, baked in a rich tomato sauce - a beloved Polish family dish.",
+  "ingredients": [
+    {"item": "Large head of cabbage", "quantity": "1"},
+    {"item": "Ground pork", "quantity": "500g"},
+    {"item": "Ground beef", "quantity": "500g"},
+    {"item": "Long-grain rice, uncooked", "quantity": "200g"},
+    {"item": "Yellow onions, finely chopped", "quantity": "2 large"},
+    {"item": "Garlic cloves, minced", "quantity": "4"},
+    {"item": "Egg", "quantity": "1"},
+    {"item": "Tomato sauce", "quantity": "800ml"},
+    {"item": "Tomato paste", "quantity": "3 tbsp"},
+    {"item": "Beef broth", "quantity": "500ml"},
+    {"item": "Butter", "quantity": "50g"},
+    {"item": "All-purpose flour", "quantity": "2 tbsp"},
+    {"item": "Brown sugar", "quantity": "1 tbsp"},
+    {"item": "Bay leaves", "quantity": "2"},
+    {"item": "Dried marjoram", "quantity": "2 tsp"},
+    {"item": "Paprika", "quantity": "1 tsp"},
+    {"item": "Salt", "quantity": "2 tsp"},
+    {"item": "Black pepper", "quantity": "1 tsp"},
+    {"item": "Fresh dill, chopped", "quantity": "1/4 cup"},
+    {"item": "Fresh parsley, chopped", "quantity": "1/4 cup"},
+    {"item": "Sour cream for serving", "quantity": "200ml"}
+  ],
+  "instructions": [
+    "Bring large pot of water to boil. Core cabbage and place whole in boiling water. Cook for 10-15 minutes until leaves soften.",
+    "Carefully remove leaves as they loosen. Trim thick ribs from leaves. Set aside 12-16 large leaves.",
+    "Cook rice according to package but reduce cooking time by 5 minutes (it will finish cooking in oven).",
+    "In skillet, melt butter and sauté onions until translucent, about 8 minutes. Add garlic and cook 1 minute more.",
+    "In large bowl, mix ground meats, partially cooked rice, sautéed onions/garlic, egg, marjoram, paprika, 1 tsp salt, 1/2 tsp pepper, dill and parsley.",
+    "Place about 1/3 cup filling on each cabbage leaf. Fold sides over filling, then roll up tightly.",
+    "Preheat oven to 180°C (350°F). Arrange cabbage rolls seam-side down in large baking dish.",
+    "For sauce: Whisk tomato sauce, tomato paste, beef broth, flour, brown sugar, remaining salt and pepper.",
+    "Pour sauce over cabbage rolls, adding bay leaves. Cover tightly with foil.",
+    "Bake for 1.5 hours. Remove foil and bake 30 minutes more until sauce is bubbly and slightly thickened.",
+    "Let rest 15 minutes before serving. Serve with sour cream and crusty bread to soak up sauce."
+  ],
+  "image": [
+        "../data/images/golabki.jpg",
+        "../data/images/golabki2.jpg"
+    ],
+  "duration": {
+    "prep": 60,
+    "cook": 120,
+    "total": 180
+  },
+  "difficulty": "medium",
+  "servings": 6,
+  "cooking_method": "baking",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Poland",
+  "tags": ["cabbage", "stuffed", "comfort food", "family", "hearty"]
+}

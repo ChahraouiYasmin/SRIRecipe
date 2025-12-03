@@ -1,0 +1,53 @@
+{
+    "title": "English Trifle",
+    "description": "Layered dessert with sponge cake, custard, fruit, and cream.",
+    "ingredients": [
+        {
+            "item": "Sponge cake",
+            "quantity": "200g"
+        },
+        {
+            "item": "Custard",
+            "quantity": "300ml"
+        },
+        {
+            "item": "Mixed fruits",
+            "quantity": "200g"
+        },
+        {
+            "item": "Whipped cream",
+            "quantity": "150ml"
+        },
+        {
+            "item": "Jam",
+            "quantity": "2 tbsp"
+        }
+    ],
+    "instructions": [
+        "Cut sponge cake into pieces, layer in a glass dish.",
+        "Spread a thin layer of jam over sponge.",
+        "Add a layer of custard, then fruits.",
+        "Repeat layers if needed, finish with whipped cream.",
+        "Chill in refrigerator 1-2 hours before serving."
+    ],
+    "image": [
+        "../data/images/englishtrifle.jpg",
+        "../data/images/englishtrifle2.jpeg"
+    ],
+    "duration": {
+        "prep": 20,
+        "cook": 0,
+        "total": 20
+    },
+    "difficulty": "easy",
+    "servings": 4,
+    "cooking_method": "none",
+    "meal_type": "dessert",
+    "category": "Traditional",
+    "country": "England",
+    "tags": [
+        "english",
+        "dessert",
+        "sweet"
+    ]
+}

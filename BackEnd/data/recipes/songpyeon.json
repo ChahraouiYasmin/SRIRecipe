@@ -1,0 +1,32 @@
+{
+    "title": "Songpyeon",
+    "description": "Traditional Korean half-moon rice cakes steamed with pine needles during Chuseok and filled with sweet fillings.",
+    "ingredients": [
+      { "item": "Glutinous rice flour", "quantity": "300g" },
+      { "item": "Hot water", "quantity": "180–200 ml" },
+      { "item": "Sweet red bean paste", "quantity": "120g" },
+      { "item": "Sesame seeds", "quantity": "30g" },
+      { "item": "Sugar", "quantity": "15g" },
+      { "item": "Honey (optional)", "quantity": "1 tsp" }
+    ],
+    "instructions": [
+      "Mix glutinous rice flour with hot water and knead until smooth.",
+      "Combine sesame seeds, sugar, and honey to make the sesame filling.",
+      "Shape dough into small balls, flatten, fill with sweet paste, then fold and seal.",
+      "Steam the rice cakes for 15–20 minutes, traditionally over pine needles.",
+      "Brush lightly with sesame oil before serving."
+    ],
+    "images": [
+        "../data/images/songpyeon.jpg",
+        "../data/images/songpyeon2.jpg"
+    ],
+    "duration": { "prep": 25, "cook": 20, "total": 45 },
+    "difficulty": "medium",
+    "servings": 8,
+    "cooking_method": "steaming",
+    "meal_type": "dessert",
+    "dish_type": "dessert",
+    "category": "Traditional",
+    "country": "South Korea",
+    "tags": ["songpyeon", "rice cake", "traditional"]
+  }

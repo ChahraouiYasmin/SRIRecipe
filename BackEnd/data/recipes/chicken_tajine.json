@@ -1,0 +1,53 @@
+{
+  "title": "Chicken Tagine with Preserved Lemon and Olives",
+  "description": "The iconic Moroccan slow-cooked stew featuring tender chicken in an aromatic broth with preserved lemons, olives, and traditional spices.",
+  "ingredients": [
+    {"item": "Whole chicken, cut into pieces", "quantity": "1.5kg"},
+    {"item": "Large onions, finely chopped", "quantity": "2"},
+    {"item": "Garlic cloves, minced", "quantity": "6"},
+    {"item": "Fresh ginger, grated", "quantity": "2 tbsp"},
+    {"item": "Fresh cilantro, chopped", "quantity": "1 bunch"},
+    {"item": "Fresh parsley, chopped", "quantity": "1/2 bunch"},
+    {"item": "Green olives with pits", "quantity": "200g"},
+    {"item": "Preserved lemons", "quantity": "2"},
+    {"item": "Saffron threads", "quantity": "1/2 tsp"},
+    {"item": "Ground ginger", "quantity": "1 tsp"},
+    {"item": "Ground cumin", "quantity": "2 tsp"},
+    {"item": "Sweet paprika", "quantity": "1 tbsp"},
+    {"item": "Turmeric", "quantity": "1 tsp"},
+    {"item": "Black pepper", "quantity": "1 tsp"},
+    {"item": "Salt", "quantity": "2 tsp"},
+    {"item": "Olive oil", "quantity": "4 tbsp"},
+    {"item": "Water", "quantity": "500ml"},
+    {"item": "Lemon juice", "quantity": "2 tbsp"}
+  ],
+  "instructions": [
+    "In a small bowl, crush saffron threads and soak in 1/4 cup warm water.",
+    "Rinse preserved lemons, scrape out pulp, and cut rind into strips. Set aside.",
+    "In a large tagine or heavy pot, heat olive oil over medium heat. Add chopped onions and cook until soft and translucent, about 10 minutes.",
+    "Add minced garlic and grated fresh ginger, cook for 2 more minutes.",
+    "Add chicken pieces skin-side down and brown on all sides, about 10 minutes total.",
+    "Add all ground spices (ginger, cumin, paprika, turmeric, black pepper, salt) and soaked saffron with its water. Stir well to coat chicken.",
+    "Add chopped cilantro and parsley, reserving some for garnish.",
+    "Pour in 500ml water and bring to a boil. Reduce heat to low, cover, and simmer for 45 minutes.",
+    "After 45 minutes, add preserved lemon rinds and green olives. Continue cooking for another 30 minutes until chicken is very tender and falling off the bone.",
+    "Stir in lemon juice and adjust seasoning if needed. The sauce should be rich and slightly reduced.",
+    "Garnish with remaining fresh herbs and serve directly from the tagine with crusty bread or couscous."
+  ],
+  "image": [
+        "../data/images/tagine.jpg",
+        "../data/images/tagine2.jpeg"
+    ],
+  "duration": {
+    "prep": 30,
+    "cook": 90,
+    "total": 120
+  },
+  "difficulty": "medium",
+  "servings": 6,
+  "cooking_method": "stewing",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Morocco",
+  "tags": ["stew", "chicken", "slow-cooked", "olives", "preserved lemon"]
+}

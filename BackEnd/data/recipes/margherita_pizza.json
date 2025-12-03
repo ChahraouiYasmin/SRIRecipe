@@ -1,0 +1,46 @@
+{
+  "title": "Pizza Margherita",
+  "description": "The classic Neapolitan pizza with a thin, chewy crust, simple tomato sauce, fresh mozzarella, and basil representing the Italian flag.",
+  "ingredients": [
+    {"item": "Type 00 flour", "quantity": "500g"},
+    {"item": "Warm water", "quantity": "325ml"},
+    {"item": "Fresh yeast", "quantity": "3g"},
+    {"item": "Sea salt", "quantity": "10g"},
+    {"item": "San Marzano tomatoes", "quantity": "400g"},
+    {"item": "Fresh mozzarella di bufala", "quantity": "250g"},
+    {"item": "Fresh basil leaves", "quantity": "20"},
+    {"item": "Extra virgin olive oil", "quantity": "3 tbsp"},
+    {"item": "Garlic clove", "quantity": "1"},
+    {"item": "Salt", "quantity": "1 tsp"},
+    {"item": "Black pepper", "quantity": "1/2 tsp"},
+    {"item": "Semolina flour", "quantity": "for dusting"}
+  ],
+  "instructions": [
+    "Dissolve yeast in warm water. In a large bowl, mix flour and salt. Make a well and pour in yeast mixture.",
+    "Mix until a shaggy dough forms, then knead on floured surface for 10 minutes until smooth and elastic.",
+    "Place dough in oiled bowl, cover, and let rise for 8-24 hours in refrigerator for slow fermentation.",
+    "Remove dough 2 hours before baking. Divide into 3 balls, cover, and let rest.",
+    "For sauce: Crush San Marzano tomatoes by hand. Mix with minced garlic, 1 tbsp olive oil, salt, and pepper.",
+    "Preheat oven with pizza stone to maximum temperature (280-300°C/535-575°F) for at least 1 hour.",
+    "Stretch dough balls into 12-inch circles on semolina-dusted surface. Don't use rolling pin.",
+    "Spread thin layer of tomato sauce, leaving 1-inch border. Tear mozzarella into pieces and distribute.",
+    "Drizzle with olive oil and slide onto hot pizza stone. Bake for 60-90 seconds until crust is puffed and charred in spots.",
+    "Remove from oven, top with fresh basil leaves, another drizzle of olive oil, and serve immediately."
+  ],
+  "image": [
+        "../data/images/pizza.jpg",
+        "../data/images/pizza2.jpg"
+    ],
+  "duration": {
+    "prep": 40,
+    "cook": 2,
+    "total": 1440
+  },
+  "difficulty": "hard",
+  "servings": 3,
+  "cooking_method": "baking",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Italy",
+  "tags": ["pizza", "neapolitan", "cheese", "tomato", "fresh"]
+}

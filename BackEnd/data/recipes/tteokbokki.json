@@ -1,0 +1,35 @@
+  {
+    "title": "Tteokbokki",
+    "description": "Spicy Korean street food made with chewy rice cakes simmered in a sweet and spicy gochujang-based sauce.",
+    "ingredients": [
+      { "item": "Korean rice cakes (tteok)", "quantity": "450g" },
+      { "item": "Korean fish cakes", "quantity": "150g, sliced" },
+      { "item": "Gochujang", "quantity": "3 tbsp" },
+      { "item": "Gochugaru (chili flakes)", "quantity": "1 tbsp" },
+      { "item": "Soy sauce", "quantity": "1 tbsp" },
+      { "item": "Sugar", "quantity": "1 tbsp" },
+      { "item": "Garlic, minced", "quantity": "2 cloves" },
+      { "item": "Water or broth", "quantity": "300 ml" },
+      { "item": "Green onions", "quantity": "2 stalks" },
+      { "item": "Sesame oil", "quantity": "1 tsp" }
+    ],
+    "instructions": [
+      "Combine water (or broth), gochujang, sugar, soy sauce, garlic, and gochugaru in a pan and bring to a simmer.",
+      "Add the rice cakes and cook for 8–10 minutes until soft and thickened.",
+      "Add sliced fish cakes and green onions and cook for 3 more minutes.",
+      "Finish with sesame oil and serve hot."
+    ],
+    "images": [
+        "../data/images/tteokbokki.jpg",
+        "../data/images/tteokbokki2.jpg"
+    ],
+    "duration": { "prep": 10, "cook": 15, "total": 25 },
+    "difficulty": "easy",
+    "servings": 3,
+    "cooking_method": "simmering",
+    "meal_type": "snack",
+    "dish_type": "main dish",
+    "category": "Traditional",
+    "country": "South Korea",
+    "tags": ["tteokbokki", "spicy", "street food"]
+  }

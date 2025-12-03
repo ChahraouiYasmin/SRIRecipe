@@ -1,0 +1,49 @@
+{
+  "title": "Seffa (Sweet Vermicelli with Cinnamon and Almonds)",
+  "description": "A celebratory sweet couscous or vermicelli dish flavored with cinnamon, sugar, and butter, traditionally served at special occasions.",
+  "ingredients": [
+    {"item": "Fine vermicelli or couscous", "quantity": "500g"},
+    {"item": "Butter", "quantity": "150g"},
+    {"item": "Sugar", "quantity": "100g"},
+    {"item": "Ground cinnamon", "quantity": "2 tbsp"},
+    {"item": "Blanched almonds", "quantity": "200g"},
+    {"item": "Raisins", "quantity": "150g"},
+    {"item": "Orange blossom water", "quantity": "3 tbsp"},
+    {"item": "Salt", "quantity": "1 tsp"},
+    {"item": "Boiling water", "quantity": "600ml"},
+    {"item": "Vegetable oil", "quantity": "1 tbsp"},
+    {"item": "Powdered sugar for dusting", "quantity": "2 tbsp"},
+    {"item": "Additional cinnamon for decoration", "quantity": "1 tbsp"}
+  ],
+  "instructions": [
+    "If using vermicelli, break into 2-inch pieces. If using couscous, place in a large bowl.",
+    "Heat 1 tbsp oil in a large pan and toast vermicelli until golden (skip if using couscous).",
+    "Pour boiling water over vermicelli/couscous, add 1 tsp salt, and let sit covered for 10 minutes.",
+    "While grains hydrate, toast almonds in a dry pan until golden. Set aside.",
+    "Soak raisins in warm water with 1 tbsp orange blossom water for 15 minutes, then drain.",
+    "Fluff vermicelli/couscous with a fork, breaking up any lumps.",
+    "In a large steamer or couscoussier, steam the grains over boiling water for 20 minutes.",
+    "Return steamed grains to large bowl and mix in 100g melted butter, remaining orange blossom water, and sugar. Mix gently with forks.",
+    "Steam again for another 15 minutes until very fluffy.",
+    "To serve: Mound the seffa on a large platter. Make decorative patterns with ground cinnamon on top.",
+    "Sprinkle with toasted almonds and drained raisins.",
+    "Dust with powdered sugar and drizzle with remaining melted butter.",
+    "Serve warm as a sweet main course or dessert."
+  ],
+  "image": [
+        "../data/images/seffa.jpg",
+        "../data/images/seffa2.jpg"
+    ],
+  "duration": {
+    "prep": 25,
+    "cook": 45,
+    "total": 70
+  },
+  "difficulty": "medium",
+  "servings": 8,
+  "cooking_method": "steaming",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Morocco",
+  "tags": ["sweet", "vermicelli", "cinnamon", "celebratory", "almonds"]
+}

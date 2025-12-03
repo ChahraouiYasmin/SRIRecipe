@@ -1,0 +1,55 @@
+{
+  "title": "Zrazy Zawijane (Polish Beef Rolls)",
+  "description": "Tender beef slices stuffed with bacon, pickles, and vegetables, simmered in a rich gravy with mushrooms - a classic Polish comfort dish.",
+  "ingredients": [
+    {"item": "Beef top round or sirloin, sliced thin", "quantity": "8 slices (about 1.2kg)"},
+    {"item": "Bacon slices", "quantity": "8"},
+    {"item": "Polish dill pickles", "quantity": "4"},
+    {"item": "Yellow onions, finely chopped", "quantity": "2"},
+    {"item": "Carrot, grated", "quantity": "1"},
+    {"item": "Fresh mushrooms, sliced", "quantity": "300g"},
+    {"item": "Dijon mustard", "quantity": "3 tbsp"},
+    {"item": "Beef broth", "quantity": "750ml"},
+    {"item": "Red wine", "quantity": "125ml"},
+    {"item": "All-purpose flour", "quantity": "4 tbsp"},
+    {"item": "Butter", "quantity": "50g"},
+    {"item": "Vegetable oil", "quantity": "3 tbsp"},
+    {"item": "Bay leaves", "quantity": "2"},
+    {"item": "Allspice berries", "quantity": "6"},
+    {"item": "Black peppercorns", "quantity": "1 tsp"},
+    {"item": "Salt", "quantity": "2 tsp"},
+    {"item": "Black pepper", "quantity": "1 tsp"},
+    {"item": "Fresh parsley, chopped", "quantity": "1/4 cup"},
+    {"item": "Toothpicks or kitchen twine", "quantity": "for securing"}
+  ],
+  "instructions": [
+    "Pound beef slices between plastic wrap until very thin (about 1/4 inch). Season both sides with salt and pepper.",
+    "Spread about 1 tsp mustard on each beef slice. Place one bacon slice, one pickle, some grated carrot and chopped onion on each.",
+    "Roll up tightly and secure with toothpicks or tie with kitchen twine. Dredge rolls in flour, shaking off excess.",
+    "Heat oil and butter in large Dutch oven. Brown zrazy on all sides, about 8-10 minutes total. Remove and set aside.",
+    "In same pot, add mushrooms and remaining onion. Cook until softened, about 8 minutes.",
+    "Sprinkle with 2 tbsp flour and cook for 1 minute. Gradually add red wine, scraping up browned bits.",
+    "Add beef broth, bay leaves, allspice, and peppercorns. Return zrazy to pot, bring to simmer.",
+    "Cover and simmer on low heat for 2-2.5 hours until beef is very tender, turning occasionally.",
+    "Remove zrazy to platter. Strain sauce if desired, or leave mushrooms in. Adjust seasoning.",
+    "If sauce is too thin, mix 2 tbsp flour with 4 tbsp water, whisk into sauce and simmer until thickened.",
+    "Remove toothpicks/string, return zrazy to sauce to warm through. Garnish with parsley.",
+    "Serve with mashed potatoes, boiled potatoes, or kasza (buckwheat)."
+  ],
+  "image": [
+        "../data/images/zrazy.jpg",
+        "../data/images/zrazy2.jpg"
+    ],
+  "duration": {
+    "prep": 45,
+    "cook": 150,
+    "total": 195
+  },
+  "difficulty": "medium",
+  "servings": 4,
+  "cooking_method": "braising",
+  "meal_type": "dinner",
+  "category": "Traditional",
+  "country": "Poland",
+  "tags": ["beef", "stuffed", "comfort food", "gravy", "hearty"]
+}
