@@ -4,5 +4,16 @@ numpy
 scikit-learn
 requests
 nltk
-sentence_transformers
+sentence_transformers==2.2.2
 faiss-cpu
+python-dotenv
+rank-bm25
+scikit-learn==1.5.0
+
+
+flask-cors
+
+
+transformers==4.40.0  
+sentence-transformers==2.7.0  
+torch==2.3.0
