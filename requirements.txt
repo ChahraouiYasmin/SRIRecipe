@@ -4,7 +4,6 @@ numpy
 scikit-learn
 requests
 nltk
-sentence_transformers==2.2.2
 faiss-cpu
 python-dotenv
 rank-bm25

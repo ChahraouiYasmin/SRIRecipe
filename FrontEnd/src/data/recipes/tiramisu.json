@@ -1,0 +1,48 @@
+{
+  "title": "Tiramisu Classico",
+  "description": "The ultimate Italian dessert - layers of coffee-soaked ladyfingers and whipped mascarpone cream, dusted with cocoa powder.",
+  "ingredients": [
+    {"item": "Mascarpone cheese", "quantity": "500g"},
+    {"item": "Fresh eggs, separated", "quantity": "4"},
+    {"item": "Granulated sugar", "quantity": "120g"},
+    {"item": "Ladyfinger cookies (savoiardi)", "quantity": "300g"},
+    {"item": "Strong espresso coffee, cooled", "quantity": "400ml"},
+    {"item": "Marsala wine", "quantity": "4 tbsp"},
+    {"item": "Dark rum or brandy (optional)", "quantity": "2 tbsp"},
+    {"item": "Unsweetened cocoa powder", "quantity": "3 tbsp"},
+    {"item": "Dark chocolate, grated", "quantity": "50g"},
+    {"item": "Vanilla extract", "quantity": "1 tsp"},
+    {"item": "Salt", "quantity": "pinch"},
+    {"item": "Heavy cream (35%)", "quantity": "200ml"}
+  ],
+  "instructions": [
+    "Brew strong espresso and let cool completely. Mix with Marsala wine and rum if using.",
+    "Separate eggs. Beat egg yolks with 100g sugar until pale, thick, and ribbon-like, about 5 minutes.",
+    "Add mascarpone to yolk mixture and beat until smooth. Mix in vanilla extract.",
+    "In clean bowl with clean beaters, whip egg whites with pinch of salt until soft peaks form.",
+    "In another bowl, whip heavy cream with remaining 20g sugar until medium peaks.",
+    "Gently fold whipped cream into mascarpone mixture, then fold in egg whites until just combined.",
+    "Quickly dip ladyfingers in coffee mixture (1-2 seconds per side) and arrange in single layer in 9x13 inch dish.",
+    "Spread half mascarpone cream over ladyfingers, smoothing top.",
+    "Create second layer of dipped ladyfingers, then remaining cream.",
+    "Cover with plastic wrap and refrigerate for at least 6 hours, preferably overnight.",
+    "Before serving, sift cocoa powder generously over top and sprinkle with grated chocolate.",
+    "Use sharp knife dipped in hot water to cut clean portions."
+  ],
+  "image": [
+        "../data/images/tiramisu.jpg",
+        "../data/images/tiramisu2.jpg"
+    ],
+  "duration": {
+    "prep": 35,
+    "cook": 0,
+    "total": 395
+  },
+  "difficulty": "medium",
+  "servings": 8,
+  "cooking_method": "no-bake",
+  "meal_type": "dessert",
+  "category": "Traditional",
+  "country": "Italy",
+  "tags": ["dessert", "coffee", "mascarpone", "no-bake", "classic"]
+}
