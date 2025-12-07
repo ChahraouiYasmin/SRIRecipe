@@ -20,8 +20,8 @@
       "Finish with sesame oil and serve hot."
     ],
     "images": [
-        "../data/images/tteokbokki.jpg",
-        "../data/images/tteokbokki2.jpg"
+        "../data/images/Tteokbokki.png",
+        "../data/images/Tteokbokki.png"
     ],
     "duration": { "prep": 10, "cook": 15, "total": 25 },
     "difficulty": "easy",
