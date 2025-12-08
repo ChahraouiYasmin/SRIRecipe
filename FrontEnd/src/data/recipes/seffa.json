@@ -31,8 +31,7 @@
     "Serve warm as a sweet main course or dessert."
   ],
   "image": [
-        "../data/images/seffa.jpg",
-        "../data/images/seffa2.jpg"
+        "../data/images/seffa.jpg"
     ],
   "duration": {
     "prep": 25,

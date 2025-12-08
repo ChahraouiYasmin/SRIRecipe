@@ -28,8 +28,7 @@
     "Remove from oven, top with fresh basil leaves, another drizzle of olive oil, and serve immediately."
   ],
   "image": [
-        "../data/images/pizza.jpg",
-        "../data/images/pizza2.jpg"
+        "../data/images/pizza.jpg"
     ],
   "duration": {
     "prep": 40,

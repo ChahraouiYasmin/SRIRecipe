@@ -43,8 +43,7 @@
         "Serve immediately."
     ],
     "image": [
-        "../data/images/French-Onion-Soup-S1.jpg",
-        "../data/images/frenchonionsoup2.jpg"
+        "../data/images/French-Onion-Soup-S1.jpg"
     ],
     "duration": {
         "prep": 10,

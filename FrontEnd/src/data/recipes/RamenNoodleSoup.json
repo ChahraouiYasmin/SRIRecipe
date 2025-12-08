@@ -44,8 +44,7 @@
         "Let the ingredients warm through for 1 minute before serving."
     ],
     "image": [
-        "../data/images/RamenNoodleSoup.png",
-        "../data/images/RamenNoodleSoup2.png"
+        "../data/images/RamenNoodleSoup.png"
     ],
     "duration": {
         "prep": 15,

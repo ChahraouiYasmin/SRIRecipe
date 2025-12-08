@@ -44,8 +44,7 @@
         "Serve hot."
     ],
     "image": [
-        "../data/images/enchilladas.jpeg",
-        "../data/images/enchilladas2.jpeg"
+        "../data/images/enchilladas.jpeg"
     ],
     "duration": {
         "prep": 15,

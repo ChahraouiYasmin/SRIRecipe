@@ -20,8 +20,7 @@
       "Fry in hot oil until golden brown and crispy."
     ],
     "image":[
-        "../data/images/kibbeh.jpg",
-        "../data/images/kibbeh2.jpg"
+        "../data/images/kibbeh.jpg"
     ],
     "duration": {
       "prep": 35,

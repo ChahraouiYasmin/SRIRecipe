@@ -19,8 +19,7 @@
       "Serve with rice, lettuce wraps, or vegetables."
     ],
     "image":[
-        "../data/images/bulgogi.png",
-        "../data/images/bulgogi_2.png"
+        "../data/images/bulgogi.png"
     ],
     "duration": { "prep": 20, "cook": 10, "total": 30 },
     "difficulty": "easy",

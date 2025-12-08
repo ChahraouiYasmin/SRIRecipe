@@ -46,8 +46,7 @@
         "Slice the roll into even pieces using a sharp, wet knife and serve with soy sauce, wasabi, and pickled ginger."
     ],
     "image": [
-        "../data/images/SushiRecipePic.png",
-        "../data/images/SushiRecipePic2.png"
+        "../data/images/SushiRecipePic.png"
     ],
     "duration": {
         "prep": 25,

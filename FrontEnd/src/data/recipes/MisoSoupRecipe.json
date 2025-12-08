@@ -34,8 +34,7 @@
         "Serve immediately while warm, as miso soup should not be reheated to boiling."
     ],
     "image": [
-        "../data/images/MisoSoup.png",
-        "../data/images/MisoSoup2.png"
+        "../data/images/MisoSoup.png"
     ],
     "duration": {
         "prep": 5,

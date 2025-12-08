@@ -40,8 +40,7 @@
         "Serve with onion gravy."
     ],
     "image": [
-        "../data/images/Toad-In-The-Hole1.jpg",
-        "../data/images/toad_in_the_hole2.jpg"
+        "../data/images/Toad-In-The-Hole1.jpg"
     ],
     "duration": {
         "prep": 10,

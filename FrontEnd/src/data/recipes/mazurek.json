@@ -38,8 +38,7 @@
     "Dust with powdered sugar before serving. Mazurek should be very sweet and rich - serve small portions."
   ],
   "image": [
-        "../data/images/mazurek.jpg",
-        "../data/images/mazurek2.jpg"
+        "../data/images/mazurek.jpg"
     ],
   "duration": {
     "prep": 60,

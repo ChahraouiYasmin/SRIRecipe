@@ -51,8 +51,7 @@
         "Season with salt and pepper, serve hot."
     ],
     "image": [
-        "../data/images/ratatouille.jpg",
-        "../data/images/ratatouille2.jpg"
+        "../data/images/ratatouille.jpg"
     ],
     "duration": {
         "prep": 15,

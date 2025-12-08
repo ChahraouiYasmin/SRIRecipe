@@ -32,8 +32,7 @@
     "Alternatively, after boiling, pan-fry in butter until golden and crispy on both sides."
   ],
   "image": [
-        "../data/images/pierogi.jpg",
-        "../data/images/pierogi2.jpg"
+        "../data/images/pierogi.jpg"
     ],
   "duration": {
     "prep": 90,

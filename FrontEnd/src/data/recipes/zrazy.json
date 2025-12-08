@@ -37,8 +37,7 @@
     "Serve with mashed potatoes, boiled potatoes, or kasza (buckwheat)."
   ],
   "image": [
-        "../data/images/zrazy.jpg",
-        "../data/images/zrazy2.jpg"
+        "../data/images/zrazy.jpg"
     ],
   "duration": {
     "prep": 45,

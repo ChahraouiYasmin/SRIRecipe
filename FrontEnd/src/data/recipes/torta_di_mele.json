@@ -34,8 +34,7 @@
     "Cool completely before dusting with powdered sugar. Serve at room temperature."
   ],
   "image": [
-        "../data/images/torta-di-mele.jpg",
-        "../data/images/torta-di-mele2.jpg"
+        "../data/images/torta-di-mele.jpg"
     ],
   "duration": {
     "prep": 30,

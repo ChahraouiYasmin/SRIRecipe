@@ -44,8 +44,7 @@
         "Transfer to a plate and drizzle with okonomiyaki sauce and mayonnaise in zigzag patterns before serving."
     ],
     "image": [
-        "../data/images/Okonomiyaki.png",
-        "../data/images/Okonomiyaki2.png"
+        "../data/images/Okonomiyaki.png"
     ],
     "duration": {
         "prep": 15,

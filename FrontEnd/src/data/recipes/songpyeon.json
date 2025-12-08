@@ -17,8 +17,7 @@
       "Brush lightly with sesame oil before serving."
     ],
     "image": [
-        "../data/images/songpyeon.jpg",
-        "../data/images/songpyeon2.jpg"
+        "../data/images/songpyeon.jpg"
     ],
     "duration": { "prep": 25, "cook": 20, "total": 45 },
     "difficulty": "medium",

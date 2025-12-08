@@ -20,8 +20,7 @@
       "Let rest 10 minutes, then flip the pot onto a tray and serve."
     ],
     "image": [
-        "../data/images/maqluba.jpg",
-        "../data/images/maqluba2.jpg"
+        "../data/images/maqluba.jpg"
     ],
     "duration": {
       "prep": 30,

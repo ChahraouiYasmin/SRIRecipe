@@ -49,8 +49,7 @@
         "Finish by adding cream, salt, and simmering for another 3 minutes."
     ],
     "image": [
-        "../data/images/PalakPaneer.png",
-        "../data/images/PalakPaneer2.png"
+        "../data/images/PalakPaneer.png"
     ],
     "duration": {
         "prep": 15,

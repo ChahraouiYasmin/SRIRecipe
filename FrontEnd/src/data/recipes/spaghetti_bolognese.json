@@ -33,8 +33,7 @@
     "Serve immediately with generous amount of Parmigiano-Reggiano grated over top."
   ],
   "image": [
-        "../data/images/spaghetti.jpg",
-        "../data/images/spaghetti2.jpg"
+        "../data/images/spaghetti.jpg"
     ],
   "duration": {
     "prep": 45,

@@ -20,8 +20,7 @@
       "Flatten and cook on a lightly oiled pan over medium heat until golden on both sides."
     ],
     "image": [
-        "../data/images/hotteok.jpg",
-        "../data/images/hotteok2.png"
+        "../data/images/hotteok.jpg"
     ],
     "duration": { "prep": 20, "cook": 10, "total": 90 },
     "difficulty": "medium",

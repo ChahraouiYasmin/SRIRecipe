@@ -49,8 +49,7 @@
         "Place a spoonful of potato filling in the center, fold the dosa, and serve hot."
     ],
     "image": [
-        "../data/images/MasalaDosa.jpg",
-        "../data/images/MasalaDosa2.png"
+        "../data/images/MasalaDosa.jpg"
     ],
     "duration": {
         "prep": 20,

@@ -57,8 +57,7 @@
         "Taste and adjust salt or spices if needed before serving."
     ],
     "image": [
-        "../data/images/butterchicken.png",
-        "../data/images/butterchicken_2.png"
+        "../data/images/butterchicken.png"
     ],
     "duration": {
         "prep": 20,

@@ -45,8 +45,7 @@
         "Serve fish with chips."
     ],
     "image": [
-        "../data/images/fishandships1.jpeg",
-        "../data/images/fishandships2.jpeg"
+        "../data/images/fishandships1.jpeg"
     ],
     "duration": {
         "prep": 15,

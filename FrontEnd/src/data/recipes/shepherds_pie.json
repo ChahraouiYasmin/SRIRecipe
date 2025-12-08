@@ -49,8 +49,7 @@
         "Serve hot."
     ],
     "image": [
-        "../data/images/ShepherdsPie.jpeg",
-        "../data/images/ShepherdsPie2.jpeg"
+        "../data/images/ShepherdsPie.jpeg"
     ],
     "duration": {
         "prep": 20,

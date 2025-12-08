@@ -35,8 +35,7 @@
     "Garnish with remaining fresh herbs and serve directly from the tagine with crusty bread or couscous."
   ],
   "image": [
-        "../data/images/tajine.jpg",
-        "../data/images/tajine2.jpeg"
+        "../data/images/tajine.jpg"
     ],
   "duration": {
     "prep": 30,

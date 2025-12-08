@@ -37,8 +37,7 @@
     "Dust with powdered sugar or add lemon glaze and berries before serving."
   ],
   "image": [
-        "../data/images/sernik.jpg",
-        "../data/images/sernik2.jpg"
+        "../data/images/sernik.jpg"
     ],
   "duration": {
     "prep": 45,

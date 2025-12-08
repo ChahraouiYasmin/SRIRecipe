@@ -53,8 +53,7 @@
         "Stir in garam masala, cook for 2 more minutes, and adjust seasoning if needed."
     ],
     "image": [
-        "../data/images/ChanaMasala.png",
-        "../data/images/ChanaMasala2.png"
+        "../data/images/ChanaMasala.png"
     ],
     "duration": {
         "prep": 10,

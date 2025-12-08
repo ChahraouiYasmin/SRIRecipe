@@ -30,8 +30,7 @@
     "Use sharp knife dipped in hot water to cut clean portions."
   ],
   "image": [
-        "../data/images/tiramisu.jpg",
-        "../data/images/tiramisu2.jpg"
+        "../data/images/tiramisu.jpg"
     ],
   "duration": {
     "prep": 35,

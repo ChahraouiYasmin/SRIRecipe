@@ -19,8 +19,7 @@
       "Assemble wraps with garlic sauce and vegetables."
     ],
     "image": [
-        "../data/images/shawarma.jpg",
-        "../data/images/shawarma2.jpg"
+        "../data/images/shawarma.jpg"
     ],
     "duration": {
       "prep": 20,

@@ -40,8 +40,7 @@
         "Place them on a paper towel to drain excess oil before serving."
     ],
     "image": [
-        "../data/images/TempuraPic.png",
-        "../data/images/TempuraPic2.png"
+        "../data/images/TempuraPic.png"
     ],
     "duration": {
         "prep": 15,

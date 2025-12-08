@@ -38,8 +38,7 @@
     "Let rest 15 minutes before serving. Serve with sour cream and crusty bread to soak up sauce."
   ],
   "image": [
-        "../data/images/golabki.jpg",
-        "../data/images/golabki2.jpg"
+        "../data/images/golabki.jpg"
     ],
   "duration": {
     "prep": 60,

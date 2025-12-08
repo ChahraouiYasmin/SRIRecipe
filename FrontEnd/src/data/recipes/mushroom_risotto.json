@@ -31,8 +31,7 @@
     "Cover and let rest for 2 minutes. Adjust seasoning, stir in parsley, and serve immediately."
   ],
   "image": [
-        "../data/images/risotto.jpg",
-        "../data/images/risotto2.jpg"
+        "../data/images/risotto.jpg"
     ],
   "duration": {
     "prep": 20,

@@ -42,8 +42,7 @@
         "Warm tortillas, serve chicken and vegetables with lime."
     ],
     "image": [
-        "../data/images/fajitas.jpeg",
-        "../data/images/fajitas2.jpeg"
+        "../data/images/fajitas.jpeg"
     ],
     "duration": {
         "prep": 10,

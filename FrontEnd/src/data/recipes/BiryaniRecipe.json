@@ -57,8 +57,7 @@
         "Cover tightly and cook on low heat for 30 minutes until the chicken is fully cooked and the rice is fluffy."
     ],
     "image": [
-        "../data/images/Biryani.png",
-        "../data/images/Biryani2.png"
+        "../data/images/Biryani.png"
     ],
     "duration": {
         "prep": 25,

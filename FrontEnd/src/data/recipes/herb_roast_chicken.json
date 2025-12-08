@@ -38,8 +38,7 @@
         "Let rest 10 minutes, serve."
     ],
     "image": [
-        "../data/images/french_roasted_chicken.jpeg",
-        "../data/images/french-roast-chicken-poulet-roti-1200.jpg"
+        "../data/images/french_roasted_chicken.jpeg"
     ],
     "duration": {
         "prep": 15,

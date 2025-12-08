@@ -26,8 +26,7 @@
       "Add the fried egg and serve with gochujang and sesame seeds."
     ],
     "image":[
-        "../data/images/bibimbap.png",
-        "../data/images/bibimbap_2.png"
+        "../data/images/bibimbap.png"
     ],
     "duration": { "prep": 20, "cook": 25, "total": 45 },
     "difficulty": "medium",

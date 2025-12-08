@@ -38,8 +38,7 @@
         "Let cool 5 minutes, serve."
     ],
     "image": [
-        "../data/images/gratin.jpeg",
-        "../data/images/gratin2.jpeg"
+        "../data/images/gratin.jpeg"
     ],
     "duration": {
         "prep": 15,

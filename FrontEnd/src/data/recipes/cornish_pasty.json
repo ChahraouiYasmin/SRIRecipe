@@ -43,8 +43,7 @@
         "Serve warm."
     ],
     "image": [
-        "../data/images/cornishpasty.png",
-        "../data/images/cornishpasty_2.png"
+        "../data/images/cornishpasty.png"
     ],
     "duration": {
         "prep": 15,
