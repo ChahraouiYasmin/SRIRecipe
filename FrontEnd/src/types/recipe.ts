@@ -12,7 +12,7 @@ export interface Recipe {
   image: string;
   description: string;
   ingredients?: Ingredient[];
-  steps?: string[];
+  instructions?: string[];
 }
 
 export interface SearchFilters {
@@ -29,7 +29,7 @@ export interface SearchRequest {
 export const COUNTRIES = [
   { code: "MA", name: "Morocco", flag: "🇲🇦" },
   { code: "IT", name: "Italy", flag: "🇮🇹" },
-  { code: "DE", name: "Germany", flag: "🇩🇪" },
+  { code: "PL", name: "Poland", flag: "🇵🇱" },
   { code: "SY", name: "Syria", flag: "🇸🇾" },
   { code: "KR", name: "South Korea", flag: "🇰🇷" },
   { code: "JP", name: "Japan", flag: "🇯🇵" },

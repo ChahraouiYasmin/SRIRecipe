@@ -25,9 +25,9 @@
       "Assemble rice in bowls and arrange vegetables and beef on top.",
       "Add the fried egg and serve with gochujang and sesame seeds."
     ],
-    "images":[
-        "../data/images/bibimbap.jpg",
-        "../data/images/bibimbap2.jpg"
+    "image":[
+        "../data/images/bibimbap.png",
+        "../data/images/bibimbap_2.png"
     ],
     "duration": { "prep": 20, "cook": 25, "total": 45 },
     "difficulty": "medium",

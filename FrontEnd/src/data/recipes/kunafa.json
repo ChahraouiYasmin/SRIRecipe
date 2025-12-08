@@ -15,9 +15,9 @@
       "Bake at 180°C until golden brown.",
       "Pour warm sugar syrup over it and garnish with pistachios."
     ],
-    "images": [
+    "image": [
         "../data/images/kunafa.jpg",
-        "../data/images/kunafa2.jpg"
+        "../data/images/kunafa2.jpeg"
     ],
     "duration": {
       "prep": 15,

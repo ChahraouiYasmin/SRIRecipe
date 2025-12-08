@@ -18,7 +18,7 @@
       "Slice the cooked chicken thinly.",
       "Assemble wraps with garlic sauce and vegetables."
     ],
-    "images": [
+    "image": [
         "../data/images/shawarma.jpg",
         "../data/images/shawarma2.jpg"
     ],

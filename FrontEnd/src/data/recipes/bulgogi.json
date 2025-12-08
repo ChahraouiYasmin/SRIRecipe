@@ -18,9 +18,9 @@
       "Stir-fry beef in a hot pan until browned and caramelized.",
       "Serve with rice, lettuce wraps, or vegetables."
     ],
-    "images":[
-        "../data/images/bulgogi.jpg",
-        "../data/images/bulgogi2.jpg"
+    "image":[
+        "../data/images/bulgogi.png",
+        "../data/images/bulgogi_2.png"
     ],
     "duration": { "prep": 20, "cook": 10, "total": 30 },
     "difficulty": "easy",

@@ -30,8 +30,8 @@
         "Serve with desired fillings."
     ],
     "image": [
-        "../data/images/crepes.jpg",
-        "../data/images/crepes2.jpg"
+        "../data/images/crepes.png",
+        "../data/images/crepes_2.png"
     ],
     "duration": {
         "prep": 10,

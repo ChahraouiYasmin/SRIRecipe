@@ -51,8 +51,8 @@
         "Squeeze lime juice over the tacos and serve."
     ],
     "image": [
-       "../data/images/chicken_tacos1.jpg",
-        "../data/images/chicken_Tacos2.jpg"
+       "../data/images/chickentacos.png",
+        "../data/images/chickentacos_2.png"
     ],
     "duration": {
         "prep": 10,

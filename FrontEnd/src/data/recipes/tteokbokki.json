@@ -19,8 +19,8 @@
       "Add sliced fish cakes and green onions and cook for 3 more minutes.",
       "Finish with sesame oil and serve hot."
     ],
-    "images": [
-        "../data/images/Tteokbokki.png",
+    "image": [
+        "../data/images/tteokbokki.jpg",
         "../data/images/Tteokbokki.png"
     ],
     "duration": { "prep": 10, "cook": 15, "total": 25 },

@@ -19,9 +19,9 @@
       "Divide dough into balls, fill each with the sugar mixture, and pinch to seal.",
       "Flatten and cook on a lightly oiled pan over medium heat until golden on both sides."
     ],
-    "images": [
+    "image": [
         "../data/images/hotteok.jpg",
-        "../data/images/hotteok2.jpg"
+        "../data/images/hotteok2.png"
     ],
     "duration": { "prep": 20, "cook": 10, "total": 90 },
     "difficulty": "medium",

@@ -2,3 +2,4 @@ venv/
 .idea/
 etapes.txt
 requirements.txt
+Frontend/node_modules/
